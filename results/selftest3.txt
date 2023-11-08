@@ -1,0 +1,10 @@
+Size of network: Number of timetables: Number of stops: Number of stops: 
+From: To: Arrive at or before: 
+1000 A
+1005 B
+
+From: To: Arrive at or before: 
+1010 A
+1015 B
+
+From: Bye

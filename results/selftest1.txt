@@ -1,0 +1,13 @@
+Size of network: Number of timetables: Number of stops: Number of stops: 
+From: To: Arrive at or before: 
+0945 HarrisPark
+0955 Ashfield
+Change at Ashfield
+1001 Ashfield
+1003 Redfern
+1010 NorthSydney
+
+From: To: Arrive at or before: 
+No connection.
+
+From: Bye
