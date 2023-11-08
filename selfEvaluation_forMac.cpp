@@ -27,7 +27,7 @@ void judge(string result, string o){
     return;
 }
 int main() {
-    // Define the input and output directories; some of you may need change the \\ to /
+    // Define the input and output directories; some of you may need change the \\ to /, or vice versa?
     string input_dir = "./inputs/";
     string output_dir = "./outputs/";
     string result_dir = "./results/";
