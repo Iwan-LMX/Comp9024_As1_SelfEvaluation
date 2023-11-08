@@ -27,4 +27,4 @@ Need your test case, if you have one. Please feel free to ‘fork’ and upload 
 I'm using `c++` writing it.  After download, you can see the `selfEvaluation.cpp` file right? Feel free to change the code if you need and you want. Then compile it.
 
 ## Last
-Thanks for [@Mingchen](https://github.com/Maka314), his last self evaluation program inspired me creat this project. As well as [@Ziting](https://github.com/Lztmeow) for provides most of the test cases and results.
+Thanks for [@Mingchen](https://github.com/Maka314), last time his self evaluation program inspired and impressed me a lot. As well as [@Ziting](https://github.com/Lztmeow) for provides most of the test cases and results.
