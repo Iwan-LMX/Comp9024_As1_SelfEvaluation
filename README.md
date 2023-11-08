@@ -1,3 +1,5 @@
+You can go this page to see the using detail [Using index](https://irradiated-edam-663.notion.site/readme-fe7d99f436364566882f7f904c10a43e) (Cause I'm lazy to update the github readme.md)
+
 # How to use it?
 
 1. Download this .zip file and unzip it.
@@ -5,7 +7,7 @@
 3. Double click `selfEvaluation.exe` 
 4. If you passed, then congratulations.
 
-![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/ba4db526-e34a-4ea1-8afc-4393e69c357c/d3c1f258-f1ca-4973-b17f-c5ebc27867ab/Untitled.png](https://irradiated-edam-663.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fba4db526-e34a-4ea1-8afc-4393e69c357c%2Fd3c1f258-f1ca-4973-b17f-c5ebc27867ab%2FUntitled.png?table=block&id=7653d57b-3eab-45f0-bc97-e811e729b6f7&spaceId=ba4db526-e34a-4ea1-8afc-4393e69c357c&width=2000&userId=&cache=v2))
+![image](https://irradiated-edam-663.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fba4db526-e34a-4ea1-8afc-4393e69c357c%2Fd3c1f258-f1ca-4973-b17f-c5ebc27867ab%2FUntitled.png?table=block&id=7653d57b-3eab-45f0-bc97-e811e729b6f7&spaceId=ba4db526-e34a-4ea1-8afc-4393e69c357c&width=2000&userId=&cache=v2)
 
 ## NB
 
@@ -18,3 +20,6 @@ Need your test case, if you have one. Please feel free to ‘fork’ and upload 
 # How to change it?
 
 I'm using `c++` writing it.  After download, you can see the `selfEvaluation.cpp` file right? Feel free to change the code if you need and you want. Then compile it.
+
+## Last
+Thanks for [@Mingchen](https://github.com/Maka314), his last self evaluation program inspired me creat this project. As well as [@Ziting](https://github.com/Lztmeow) for provides most of the test cases and results.
