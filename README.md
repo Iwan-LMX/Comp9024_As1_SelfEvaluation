@@ -9,7 +9,7 @@ You can go this page to see the using detail [Using index](https://irradiated-ed
 4. If you passed, then congratulations.
    
 ## For mac users:
-- Please use this `selfEvaluation_forMac.cpp`
+- Please use this `selfEvaluation_forMac.cpp`, and make sure you are using c++11 over more.
 1. Download this .zip file and unzip it. Remove all the files inside `./inputs` and `./code`
 2. Put your code files under the `./code` folder. Includes all your `tripView.c` and every other `PQueue.c`, `PQueue.h` you used.
 3. Using your ide comile this `selfEvaluation_forMac.cpp` and run it. (Sorry, I'm not good at macos, seems no other good way sames on windows)
